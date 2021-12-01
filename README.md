@@ -1,1 +1,1 @@
-# Python-Practical-for-Data-science
+# Python Practical for Data science
